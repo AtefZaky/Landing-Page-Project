@@ -21,4 +21,4 @@ I also made the active section in the Navbar highlighted and I made the navigati
 * CSS 
 * Javascript (ECMA6)
 
-# Live Site: [See it live](https://atefzaky.github.io/Landing-Page-Project/)
+### Live Site: [See it live](https://atefzaky.github.io/Landing-Page-Project/)
